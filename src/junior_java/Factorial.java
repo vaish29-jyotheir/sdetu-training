@@ -6,7 +6,8 @@ public class Factorial {
 		// TODO Auto-generated method stub
 int x=fac(5);
 System.out.println(x);
-	}
+System.out.println("hello");
+}
 public static int fac(int n)
 {
 	if(n==0||n==1)
