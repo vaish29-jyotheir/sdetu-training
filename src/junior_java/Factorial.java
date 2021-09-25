@@ -7,6 +7,7 @@ public class Factorial {
 int x=fac(5);
 System.out.println(x);
 System.out.println("hello");
+		System.out.println("second modification");
 }
 public static int fac(int n)
 {
